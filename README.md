@@ -1,1 +1,1 @@
-# Learning-Projects-Restaurant-cusomer-behavior-using-sql
+# Learning-Projects-Restaurant-customer-behavior-using-sql
